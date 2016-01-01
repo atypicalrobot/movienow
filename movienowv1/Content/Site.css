@@ -81,3 +81,12 @@ input[type="select"] {
     bottom: 0px;
     width: 100%;
 }
+
+/*select menu for movies page*/
+.im-centered {margin-left: auto; margin-right:auto; width: 800px;}
+
+.logo
+{
+  padding-left:10px;
+  padding-top: 3px;
+}

@@ -2,9 +2,9 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div>
      <div class="header">
-        <h1 class="text-center">Coming Soon</h1>
+        <h1 class="text-center">Top Rated</h1>
     </div>
-    <div class="row" >
+    <div class="row-fluid" >
         <div class="col-md-2">
             <h2 class="text-center">Movie 1</h2>
             <img class="img-thumbnail" src="http://lorempixel.com/200/200/" />
@@ -20,6 +20,78 @@
          <div class="col-md-2">
             <h2 class="text-center">Movie 4</h2>
             <img class="img-thumbnail" src="http://lorempixel.com/200/200/?3" />
+        </div>
+         <div class="col-md-2">
+            <h2 class="text-center">Movie 5</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?4" />
+        </div>
+        <div class="col-md-2">
+            <h2 class="text-center">Movie 6</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?5" />
+        </div>
+         <div class="col-md-2">
+            <h2 class="text-center">Movie 5</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?4" />
+        </div>
+        <div class="col-md-2">
+            <h2 class="text-center">Movie 6</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?5" />
+        </div>
+         <div class="col-md-2">
+            <h2 class="text-center">Movie 5</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?4" />
+        </div>
+        <div class="col-md-2">
+            <h2 class="text-center">Movie 6</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?5" />
+        </div>
+         <div class="col-md-2">
+            <h2 class="text-center">Movie 5</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?4" />
+        </div>
+        <div class="col-md-2">
+            <h2 class="text-center">Movie 6</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?5" />
+        </div>
+         <div class="col-md-2">
+            <h2 class="text-center">Movie 5</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?4" />
+        </div>
+        <div class="col-md-2">
+            <h2 class="text-center">Movie 6</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?5" />
+        </div>
+         <div class="col-md-2">
+            <h2 class="text-center">Movie 5</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?4" />
+        </div>
+        <div class="col-md-2">
+            <h2 class="text-center">Movie 6</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?5" />
+        </div>
+         <div class="col-md-2">
+            <h2 class="text-center">Movie 5</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?4" />
+        </div>
+        <div class="col-md-2">
+            <h2 class="text-center">Movie 6</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?5" />
+        </div>
+         <div class="col-md-2">
+            <h2 class="text-center">Movie 5</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?4" />
+        </div>
+        <div class="col-md-2">
+            <h2 class="text-center">Movie 6</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?5" />
+        </div>
+         <div class="col-md-2">
+            <h2 class="text-center">Movie 5</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?4" />
+        </div>
+        <div class="col-md-2">
+            <h2 class="text-center">Movie 6</h2>
+            <img class="img-thumbnail" src="http://lorempixel.com/200/200/?5" />
         </div>
          <div class="col-md-2">
             <h2 class="text-center">Movie 5</h2>

@@ -49,7 +49,7 @@
         <span class="sr-only">Next</span>
       </a>
     </div>
-
+    <br />
     <div class="header">
         <h1 class="text-center">Coming Soon</h1>
     </div>

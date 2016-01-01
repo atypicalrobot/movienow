@@ -39,7 +39,7 @@
         </asp:ScriptManager>
 
         <div class="navbar navbar-inverse navbar-fixed-top">
-             <div class="pull-left" >
+             <div class="pull-left logo" >
                     <img src="/Content/Images/logo.png" width="70px"/>
              </div>
             <div class="container">
@@ -85,7 +85,6 @@
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
         </div>
-
         <hr />
 
         <footer class="footer">
