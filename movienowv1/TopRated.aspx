@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="TopRated.aspx.cs" Inherits="movienowv1._Default" %>
+﻿<%@ Page Title="Top Rated Movies" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="TopRated.aspx.cs" Inherits="movienowv1._Default" %>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div>
      <div class="header">

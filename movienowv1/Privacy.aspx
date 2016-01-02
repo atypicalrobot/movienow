@@ -1,0 +1,10 @@
+﻿<%@ Page Title="Privacy" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Privacy.aspx.cs" Inherits="movienowv1.Privacy" %>
+
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent"
+runat="server">
+<p>We respect your privacy and we are committed to protecting your privacy while online at our website. The following discloses the information gathering and dissemination practices for this website.</p> 
+<p>Cookies: Cookie is a piece of data stored on the user's computer tied to information about the user. www.movienow.co.uk does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. A number of our business partners also use cookies on our site (for example, advertisers). However, we do not have access to or control over these cookies, once we have allowed them to set cookies for advertising.</p>
+<p>Log files: Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, referring and exit pages, platform type, date stamped time, and number of clicks to analyze trends and gather personal information for general use. IP addresses, etc. are not linked to personally identifiable information.</p>
+<p>Links: This site contains links to other sites. Please note that we are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and read the terms of the privacy of each and every website collecting personally identifiable information. This statement applies only to confidential information collected by this website.</p>
+<p>If you have any questions or suggestions about the privacy policies, please contact us via email to: movienowuk.gmail.co.uk or you can send us a message by filling the form <a runat="server" href="~/ContactUs">here</a>. </p>
+</asp:Content>
